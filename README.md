@@ -23,23 +23,6 @@ This route focuses on analyzing how and when evacuation alerts are triggered —
 **Why this matters:**  
 Improved risk dashboards, real-time alerts, and support systems for people with disabilities, pets, or other special needs.
 
----
-
-## Project Title & Team Info
-
-**Project Title**: Community Evacuation Resource Matcher (CERM)  
-**Team Name**: Ramblin' Pathfinders  
-**University**: Georgia Institute of Technology  
-**Course**: N/A   
-**Term**: Spring 2026  
-
-**Team Members**:  
-- Riya Bharathwaj
-- Tingya Chang
-- Saehee Eom
-- Tanmayee Kolli
-- Simran Mallik
-
 ------
 
 # Abstract
@@ -251,16 +234,3 @@ The system has the potential to:
 [7] National Academies of Sciences, Engineering, and Medicine. (2019). Evacuation Decision Making in Disasters.
 
 [8] Aldrich, D. P., & Meyer, M. A. (2015). Social capital and community resilience. American Behavioral Scientist.
-
-
-
-## Team Contributions
-
-| Name             | Contributions                                                                  |
-|------------------|--------------------------------------------------------------------------------|
-| Riya Bharathwaj  | EDA, Feature engineering, modeling, building solution, presentation prep       |
-| Ting-ya Chang    | EDA, geospatial joins, Research/Outreach, building solution, presentation prep |
-| Saehee Eom       | EDA, Feature engineering, modeling, building solution, presentation prep       |
-| Tanmayee Kolli   | EDA, Research/Outreach, building solution, presentation prep                   |
-| Simran Mallik    | EDA, preprocessing, Research/Outreach, building solution, presentation prep    |
-
