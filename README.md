@@ -2,8 +2,7 @@
   <img src="https://www.widsworldwide.org/wp-content/uploads/2023/05/WiDS_logo_nav.png" alt="WiDS Logo" width="250"/>
 </p>
 
-<h1 align="center">WiDS Datathon 2026 – Ramblin' Pathfinders</h1>
-<h2 align="center">Community Evacuation Resource Matcher (CERM)</h2>
+<h2 align="center">WiDS Datathon 2026 – Community Evacuation Resource Matcher (CERM)</h2>
 
 ![CERMmatching](images/helperFullProcess.gif)
 
