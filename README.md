@@ -7,6 +7,11 @@
 
 ![CERMmatching](images/helperFullProcess.gif)
 
+<p align="center">
+  <a href="https://riyabharath24.github.io/cerm-wildfire-evacuation-tool/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20Prototype-brightgreen?style=for-the-badge" />
+  </a>
+</p>
 ---
 
 ### 🔹 Route 1: Accelerating Equitable Evacuations
